@@ -18,6 +18,7 @@ namespace NullConditionalOperator
         static void PrintAddress(Person person)
         {
             //Old way of doing this.
+            // Address address = person != null ? person.Address : null;
             Address address = person?.Address;
             if (address != null)
             {
