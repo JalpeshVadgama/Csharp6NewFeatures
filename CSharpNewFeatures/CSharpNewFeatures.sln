@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullConditionalOperator", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionFilters", "ExceptionFilters\ExceptionFilters.csproj", "{F55CC4BA-F79E-40CC-979D-56A7FF3EDDD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInterpolation", "StringInterpolation\StringInterpolation.csproj", "{0A008C31-0F57-408F-941A-23BF4D1083C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F55CC4BA-F79E-40CC-979D-56A7FF3EDDD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F55CC4BA-F79E-40CC-979D-56A7FF3EDDD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F55CC4BA-F79E-40CC-979D-56A7FF3EDDD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A008C31-0F57-408F-941A-23BF4D1083C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A008C31-0F57-408F-941A-23BF4D1083C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A008C31-0F57-408F-941A-23BF4D1083C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A008C31-0F57-408F-941A-23BF4D1083C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
