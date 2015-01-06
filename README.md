@@ -14,3 +14,5 @@ http://www.dotnetjalps.com/2014/12/csharp-6-static-class-using-statement.html
 http://www.dotnetjalps.com/2014/12/csharp-6-auto-implemented-property-initializer.html
 
 http://www.dotnetjalps.com/2014/12/csharp-6-nameof-operator.html
+
+http://www.dotnetjalps.com/2015/01/c-60string-interpolation.html
