@@ -12,7 +12,7 @@ namespace StringInterpolation
             Console.WriteLine("My name is {0}", name);
 
             //New way of doing this
-            Console.WriteLine("My name is \{name}");
+            Console.WriteLine("My name is {name}");
         }
     }
 }

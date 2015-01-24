@@ -22,7 +22,7 @@ namespace ExpressionBodiedMemebers
 
         public string GetFullName()
         {
-            return string.Format("\{FirstName} \{LastName}");
+            return string.Format("{FirstName} {LastName}");
         }
     }
 }

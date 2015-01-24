@@ -14,7 +14,7 @@ namespace DictionaryInitializer
             };
             foreach (var person in Person)
             {
-                Console.WriteLine("Key:\{person.Key}\, Value=\{person.Value}\ ");
+                Console.WriteLine("Key:{person.Key}, Value={person.Value} ");
             }
         }
     }
