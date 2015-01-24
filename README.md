@@ -18,3 +18,5 @@ http://www.dotnetjalps.com/2014/12/csharp-6-nameof-operator.html
 http://www.dotnetjalps.com/2015/01/c-60string-interpolation.html
 
 http://www.dotnetjalps.com/2015/01/csharp6-expression-bodied-members.html
+
+http://www.dotnetjalps.com/2015/01/csharp6-dictionary-initializers.html
