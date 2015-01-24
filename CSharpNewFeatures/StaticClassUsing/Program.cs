@@ -1,4 +1,4 @@
-﻿using System.Console;
+﻿using static System.Console;
 
 namespace StaticClassUsing
 {
