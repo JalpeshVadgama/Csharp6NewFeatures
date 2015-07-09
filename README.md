@@ -20,3 +20,5 @@ http://www.dotnetjalps.com/2015/01/c-60string-interpolation.html
 http://www.dotnetjalps.com/2015/01/csharp6-expression-bodied-members.html
 
 http://www.dotnetjalps.com/2015/01/csharp6-dictionary-initializers.html
+
+http://www.dotnetjalps.com/2015/01/syntax-update-csharp6-visual-studio-2015-ctp.html
