@@ -9,12 +9,12 @@ namespace DictionaryInitializer
         {
             Dictionary<int, string> Person = new Dictionary<int, string>()
             {
-                [1] = "Jalpesh Vadgama",
-                [2] = "Vishal Vadgama"
+                {1, "Jalpesh Vadgama" },
+                {2, "Vishal Vadgama" }
             };
             foreach (var person in Person)
             {
-                Console.WriteLine("Key:{person.Key}, Value={person.Value} ");
+                Console.WriteLine("Key : {0},Value: {1}",person.Key, person.Value);
             }
             Console.ReadKey();
         }
