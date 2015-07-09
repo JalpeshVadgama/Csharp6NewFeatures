@@ -23,6 +23,8 @@ namespace PropertyInitializers
             Console.WriteLine("Id= {0}", anotherStudent.StudentId);
             Console.WriteLine("FirstName= {0}", anotherStudent.FirstName);
             Console.WriteLine("LastName= {0}", anotherStudent.LastName);
+
+            Console.ReadKey();
         }
     }
 

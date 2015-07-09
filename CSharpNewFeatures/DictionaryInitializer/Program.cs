@@ -16,6 +16,7 @@ namespace DictionaryInitializer
             {
                 Console.WriteLine("Key:{person.Key}, Value={person.Value} ");
             }
+            Console.ReadKey();
         }
     }
 }

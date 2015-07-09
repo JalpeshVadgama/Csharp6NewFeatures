@@ -7,6 +7,7 @@ namespace StaticClassUsing
         static void Main(string[] args)
         {
             WriteLine("With using statement");
+            ReadKey();
         }
     }
 }

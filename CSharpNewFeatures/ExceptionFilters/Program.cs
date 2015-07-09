@@ -18,14 +18,15 @@ namespace ExceptionFilters
             //    else
             //        Console.WriteLine("Exception with Message DotNetJalps executed");
             //}
-            catch (Exception ex) if (ex.Message == "Jalpesh")
+            catch (Exception ex) when (ex.Message == "Jalpesh")
             {
                 Console.WriteLine("Exception with Message Jalpesh is executed");
             }
-            catch (Exception ex) if (ex.Message == "DotNetJalps")
+            catch (Exception ex) when (ex.Message == "DotNetJalps")
             {
                 Console.WriteLine("Exception with Message DotNetJalps executed");
             }
+            Console.ReadKey();
         }
     }
 }

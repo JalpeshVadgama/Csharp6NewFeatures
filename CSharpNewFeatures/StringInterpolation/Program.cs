@@ -13,6 +13,9 @@ namespace StringInterpolation
 
             //New way of doing this
             Console.WriteLine("My name is {name}");
+            Console.WriteLine("hello World");
+            Console.Write("hello world");
+            Console.ReadKey();
         }
     }
 }
